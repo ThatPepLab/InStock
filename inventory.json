@@ -7,7 +7,7 @@
   {
     "product": "Semax",
     "strength": "10mg",
-    "quantity": 8
+    "quantity": 7
   },
   {
     "product": "NAD+",
@@ -23,5 +23,25 @@
     "product": "Retatrutide",
     "strength": "20mg",
     "quantity": 10
-  }
+ },
+  {
+    "product": "MOTS-C",
+    "strength": "40mg",
+    "quantity": 10
+  },
+  {
+    "product": "SS-31",
+    "strength": "10mg",
+    "quantity": 3
+  },
+  {
+    "product": "TESAMORELIN",
+    "strength": "10mg",
+    "quantity": 20
+  },
+  {
+    "product": "BPC-157 + TB500",
+    "strength": "20mg",
+    "quantity": 3
+  },
 ]
