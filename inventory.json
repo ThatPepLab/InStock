@@ -3,30 +3,25 @@
     "product": "Retatrutide",
     "strength": "10mg",
     "quantity": 4
+  },
+  {
+    "product": "Semax",
+    "strength": "10mg",
+    "quantity": 8
+  },
+  {
+    "product": "NAD+",
+    "strength": "1000mg",
+    "quantity": 8
+  },
+  {
+    "product": "GHK-Cu",
+    "strength": "100mg",
+    "quantity": 8
+  },
+  {
+    "product": "Retatrutide",
+    "strength": "20mg",
+    "quantity": 10
   }
 ]
-[
-{
-  "product": "Semax",
-  "strength": "10mg",
-  "quantity": 8
-}
-]
-[
-{
-  "product": "NAD+",
-  "strength": "1000mg",
-  "quantity": 8
-}
-  [
-{
-  "product": "GHK-cu",
-  "strength": "100mg",
-  "quantity": 8
-}
-    [
-  {
-  "product": "Retatrutide",
-  "strength": "20mg",
-  "quantity": 10
-}
