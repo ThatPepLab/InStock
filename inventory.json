@@ -2,7 +2,7 @@
   {
     "product": "Retatrutide",
     "strength": "10mg",
-    "quantity": 1
+    "quantity": 3
   },
   {
     "product": "Semax",
@@ -43,5 +43,10 @@
     "product": "BPC-157 + TB500",
     "strength": "20mg",
     "quantity": 3
+    },
+  {
+    "product": "SELANK",
+    "strength": "10mg",
+    "quantity": 8
   }
 ]
