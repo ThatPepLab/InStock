@@ -25,13 +25,14 @@
   {
     "product": "GLP-3RT",
     "strength": "10mg",
-    "quantity": 2,
+    "quantity": 1,
     "id": "glp-3rt--10mg",
     "sku": "",
     "category": "",
     "moreOnWay": false,
     "incomingQuantity": 0,
-    "expectedArrival": ""
+    "expectedArrival": "",
+    "updatedAt": "2026-08-14T21:19:55.655Z"
   },
   {
     "product": "GLP-3RT",
