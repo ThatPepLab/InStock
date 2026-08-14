@@ -1,5 +1,40 @@
 [
   {
+    "id": "439bb8aa-e7be-442a-bf14-84bc96c535ad",
+    "itemId": "glp-3rt--10mg",
+    "label": "GLP-3RT 10mg",
+    "action": "adjust",
+    "actionLabel": "Sold",
+    "delta": -1,
+    "note": "Sold",
+    "before": {
+      "product": "GLP-3RT",
+      "strength": "10mg",
+      "quantity": 2,
+      "id": "glp-3rt--10mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": ""
+    },
+    "after": {
+      "product": "GLP-3RT",
+      "strength": "10mg",
+      "quantity": 1,
+      "id": "glp-3rt--10mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-08-14T21:19:55.655Z"
+    },
+    "timestamp": "2026-08-14T21:19:55.655Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "undo-test-2026-08-14T21:17:52.245Z",
     "itemId": "bpc-157-tb500--20mg",
     "label": "BPC-157 + TB500 20mg",
