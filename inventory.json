@@ -1,52 +1,113 @@
 [
   {
-    "product": "GLP-3RT",
-    "strength": "10mg",
-    "quantity": 2
-  },
-  {
-    "product": "Semax",
-    "strength": "10mg",
-    "quantity": 7
-  },
-  {
-    "product": "NAD+",
-    "strength": "1000mg",
-    "quantity": 8
+    "product": "BPC-157 + TB500",
+    "strength": "20mg",
+    "quantity": 2,
+    "id": "bpc-157-tb500--20mg",
+    "sku": "",
+    "category": "",
+    "moreOnWay": false,
+    "incomingQuantity": 0,
+    "expectedArrival": "",
+    "updatedAt": "2026-08-14T21:13:48.444Z"
   },
   {
     "product": "GHK-Cu",
     "strength": "100mg",
-    "quantity": 8
+    "quantity": 8,
+    "id": "ghk-cu--100mg",
+    "sku": "",
+    "category": "",
+    "moreOnWay": false,
+    "incomingQuantity": 0,
+    "expectedArrival": ""
+  },
+  {
+    "product": "GLP-3RT",
+    "strength": "10mg",
+    "quantity": 2,
+    "id": "glp-3rt--10mg",
+    "sku": "",
+    "category": "",
+    "moreOnWay": false,
+    "incomingQuantity": 0,
+    "expectedArrival": ""
   },
   {
     "product": "GLP-3RT",
     "strength": "20mg",
-    "quantity": 10
- },
+    "quantity": 10,
+    "id": "glp-3rt--20mg",
+    "sku": "",
+    "category": "",
+    "moreOnWay": false,
+    "incomingQuantity": 0,
+    "expectedArrival": ""
+  },
   {
     "product": "MOTS-C",
     "strength": "40mg",
-    "quantity": 10
+    "quantity": 10,
+    "id": "mots-c--40mg",
+    "sku": "",
+    "category": "",
+    "moreOnWay": false,
+    "incomingQuantity": 0,
+    "expectedArrival": ""
+  },
+  {
+    "product": "NAD+",
+    "strength": "1000mg",
+    "quantity": 8,
+    "id": "nad--1000mg",
+    "sku": "",
+    "category": "",
+    "moreOnWay": false,
+    "incomingQuantity": 0,
+    "expectedArrival": ""
+  },
+  {
+    "product": "SELANK",
+    "strength": "10mg",
+    "quantity": 8,
+    "id": "selank--10mg",
+    "sku": "",
+    "category": "",
+    "moreOnWay": false,
+    "incomingQuantity": 0,
+    "expectedArrival": ""
+  },
+  {
+    "product": "Semax",
+    "strength": "10mg",
+    "quantity": 7,
+    "id": "semax--10mg",
+    "sku": "",
+    "category": "",
+    "moreOnWay": false,
+    "incomingQuantity": 0,
+    "expectedArrival": ""
   },
   {
     "product": "SS-31",
     "strength": "10mg",
-    "quantity": 3
+    "quantity": 3,
+    "id": "ss-31--10mg",
+    "sku": "",
+    "category": "",
+    "moreOnWay": false,
+    "incomingQuantity": 0,
+    "expectedArrival": ""
   },
   {
     "product": "TESAMORELIN",
     "strength": "10mg",
-    "quantity": 20
-  },
-  {
-    "product": "BPC-157 + TB500",
-    "strength": "20mg",
-    "quantity": 3
-    },
-  {
-    "product": "SELANK",
-    "strength": "10mg",
-    "quantity": 8
+    "quantity": 20,
+    "id": "tesamorelin--10mg",
+    "sku": "",
+    "category": "",
+    "moreOnWay": false,
+    "incomingQuantity": 0,
+    "expectedArrival": ""
   }
 ]
