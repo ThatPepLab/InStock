@@ -46,6 +46,18 @@
     "expectedArrival": ""
   },
   {
+    "product": "HGH 191AA",
+    "strength": "15iu",
+    "sku": "",
+    "category": "Growth & Performance",
+    "quantity": 0,
+    "moreOnWay": true,
+    "incomingQuantity": 10,
+    "expectedArrival": "2026-08-20",
+    "id": "hgh-191aa--15iu",
+    "updatedAt": "2026-08-14T21:31:05.339Z"
+  },
+  {
     "product": "MOTS-C",
     "strength": "40mg",
     "quantity": 10,
