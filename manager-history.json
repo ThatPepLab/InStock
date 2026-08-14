@@ -1,5 +1,41 @@
 [
   {
+    "id": "813fa4f7-cea3-4694-8ef1-c8170d008886",
+    "itemId": "glp-3rt--10mg",
+    "label": "GLP-3RT 10mg",
+    "action": "save",
+    "actionLabel": "Product edited",
+    "delta": 0,
+    "note": "",
+    "before": {
+      "product": "GLP-3RT",
+      "strength": "10mg",
+      "quantity": 0,
+      "id": "glp-3rt--10mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-08-14T21:27:05.921Z"
+    },
+    "after": {
+      "id": "glp-3rt--10mg",
+      "product": "GLP-3RT",
+      "strength": "10mg",
+      "sku": "",
+      "category": "Weight Loss",
+      "quantity": 0,
+      "moreOnWay": true,
+      "incomingQuantity": 10,
+      "expectedArrival": "2026-08-19",
+      "updatedAt": "2026-08-14T21:31:31.722Z"
+    },
+    "timestamp": "2026-08-14T21:31:31.722Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "80e53bd5-b240-45c2-9c09-91f87214bff8",
     "itemId": "hgh-191aa--15iu",
     "label": "HGH 191AA 15iu",
