@@ -1,5 +1,41 @@
 [
   {
+    "id": "c692c9f9-f24a-4aa2-a4be-65f53c81a5b0",
+    "itemId": "glp-3rt--10mg",
+    "label": "GLP-3RT 10mg",
+    "action": "undo",
+    "actionLabel": "Undo",
+    "delta": 0,
+    "note": "Undid: Product edited",
+    "before": {
+      "id": "glp-3rt--10mg",
+      "product": "GLP-3RT",
+      "strength": "10mg",
+      "sku": "",
+      "category": "",
+      "quantity": 0,
+      "moreOnWay": true,
+      "incomingQuantity": 10,
+      "expectedArrival": "2026-08-18",
+      "updatedAt": "2026-08-14T21:20:33.668Z"
+    },
+    "after": {
+      "product": "GLP-3RT",
+      "strength": "10mg",
+      "quantity": 0,
+      "id": "glp-3rt--10mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-08-14T21:27:05.921Z"
+    },
+    "timestamp": "2026-08-14T21:27:05.921Z",
+    "undoable": false,
+    "undone": false
+  },
+  {
     "id": "278870a6-3455-4123-9a1e-58cbdc90ba30",
     "itemId": "glp-3rt--10mg",
     "label": "GLP-3RT 10mg",
@@ -33,7 +69,8 @@
     },
     "timestamp": "2026-08-14T21:20:33.668Z",
     "undoable": true,
-    "undone": false
+    "undone": true,
+    "undoneAt": "2026-08-14T21:27:05.921Z"
   },
   {
     "id": "2ca38138-3c1c-411c-888e-9afb1092e8af",
