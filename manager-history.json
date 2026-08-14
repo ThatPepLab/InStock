@@ -1,5 +1,41 @@
 [
   {
+    "id": "undo-test-2026-08-14T21:17:52.245Z",
+    "itemId": "bpc-157-tb500--20mg",
+    "label": "BPC-157 + TB500 20mg",
+    "action": "undo",
+    "actionLabel": "Undo",
+    "delta": 1,
+    "note": "Undid: Sold",
+    "before": {
+      "product": "BPC-157 + TB500",
+      "strength": "20mg",
+      "quantity": 2,
+      "id": "bpc-157-tb500--20mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-08-14T21:13:48.444Z"
+    },
+    "after": {
+      "product": "BPC-157 + TB500",
+      "strength": "20mg",
+      "quantity": 3,
+      "id": "bpc-157-tb500--20mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-08-14T21:17:52.245Z"
+    },
+    "timestamp": "2026-08-14T21:17:52.245Z",
+    "undoable": false,
+    "undone": false
+  },
+  {
     "id": "95426d3b-4038-4c5d-9408-839e142be555",
     "itemId": "bpc-157-tb500--20mg",
     "label": "BPC-157 + TB500 20mg",
@@ -32,6 +68,7 @@
     },
     "timestamp": "2026-08-14T21:13:48.444Z",
     "undoable": true,
-    "undone": false
+    "undone": true,
+    "undoneAt": "2026-08-14T21:17:52.245Z"
   }
 ]
