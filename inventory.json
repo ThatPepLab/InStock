@@ -28,11 +28,11 @@
     "strength": "10mg",
     "sku": "",
     "category": "Weight Loss",
-    "quantity": 1,
+    "quantity": 0,
     "moreOnWay": true,
-    "incomingQuantity": 10,
+    "incomingQuantity": 20,
     "expectedArrival": "2026-08-19",
-    "updatedAt": "2026-08-17T15:55:55.088Z"
+    "updatedAt": "2026-08-17T15:56:04.954Z"
   },
   {
     "product": "GLP-3RT",
