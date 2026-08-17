@@ -1,5 +1,30 @@
 [
   {
+    "id": "3c5af869-f877-4675-bb32-1fee1c57e755",
+    "itemId": "tirzepatide--15mg",
+    "label": "Tirzepatide 15mg",
+    "action": "save",
+    "actionLabel": "Product added",
+    "delta": 0,
+    "note": "",
+    "before": null,
+    "after": {
+      "product": "Tirzepatide",
+      "strength": "15mg",
+      "sku": "",
+      "category": "Weight Loss",
+      "quantity": 0,
+      "moreOnWay": true,
+      "incomingQuantity": 10,
+      "expectedArrival": "2026-08-20",
+      "id": "tirzepatide--15mg",
+      "updatedAt": "2026-08-17T15:57:06.751Z"
+    },
+    "timestamp": "2026-08-17T15:57:06.751Z",
+    "undoable": false,
+    "undone": false
+  },
+  {
     "id": "2b6c7810-806a-4a50-8398-78548bc77ccb",
     "itemId": "glp-3rt--10mg",
     "label": "GLP-3RT 10mg",
