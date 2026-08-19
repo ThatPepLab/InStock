@@ -1,5 +1,40 @@
 [
   {
+    "id": "5c99df76-e7ac-43b0-bddf-5e3ace4dd104",
+    "itemId": "ss-31--10mg",
+    "label": "SS-31 10mg",
+    "action": "adjust",
+    "actionLabel": "Sold",
+    "delta": -1,
+    "note": "Sold",
+    "before": {
+      "product": "SS-31",
+      "strength": "10mg",
+      "quantity": 3,
+      "id": "ss-31--10mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": ""
+    },
+    "after": {
+      "product": "SS-31",
+      "strength": "10mg",
+      "quantity": 2,
+      "id": "ss-31--10mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-08-19T15:54:22.967Z"
+    },
+    "timestamp": "2026-08-19T15:54:22.967Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "28107378-f1b9-49d2-91a7-3043804f5f16",
     "itemId": "semax--10mg",
     "label": "Semax 10mg",
