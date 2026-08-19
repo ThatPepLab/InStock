@@ -1,5 +1,41 @@
 [
   {
+    "id": "683cd294-a1b1-4dc2-b78a-2c49451c58f8",
+    "itemId": "bpc-157-tb500--20mg",
+    "label": "BPC-157 + TB500 20mg",
+    "action": "adjust",
+    "actionLabel": "Sold",
+    "delta": -1,
+    "note": "Sold",
+    "before": {
+      "product": "BPC-157 + TB500",
+      "strength": "20mg",
+      "quantity": 3,
+      "id": "bpc-157-tb500--20mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-08-14T21:17:27.464Z"
+    },
+    "after": {
+      "product": "BPC-157 + TB500",
+      "strength": "20mg",
+      "quantity": 2,
+      "id": "bpc-157-tb500--20mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-08-19T15:53:18.186Z"
+    },
+    "timestamp": "2026-08-19T15:53:18.186Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "3c5af869-f877-4675-bb32-1fee1c57e755",
     "itemId": "tirzepatide--15mg",
     "label": "Tirzepatide 15mg",
