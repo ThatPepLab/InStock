@@ -1,5 +1,30 @@
 [
   {
+    "id": "04dcfa58-8a62-4bc2-86df-64f3ae2a85b4",
+    "itemId": "hgh-191aa--36iu",
+    "label": "HGH 191AA 36iu",
+    "action": "save",
+    "actionLabel": "Product added",
+    "delta": 0,
+    "note": "",
+    "before": null,
+    "after": {
+      "product": "HGH 191AA",
+      "strength": "36iu",
+      "sku": "",
+      "category": "Growth & Performance",
+      "quantity": 0,
+      "moreOnWay": true,
+      "incomingQuantity": 5,
+      "expectedArrival": "2026-08-26",
+      "id": "hgh-191aa--36iu",
+      "updatedAt": "2026-08-19T20:26:12.784Z"
+    },
+    "timestamp": "2026-08-19T20:26:12.784Z",
+    "undoable": false,
+    "undone": false
+  },
+  {
     "id": "0b320022-8606-4996-9717-86475e397fcc",
     "itemId": "tirzepatide--20mg",
     "label": "Tirzepatide 20mg",
