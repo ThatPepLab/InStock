@@ -1,5 +1,40 @@
 [
   {
+    "id": "c0be17d6-e442-43e4-a89c-4f0d74a42f01",
+    "itemId": "tesamorelin--10mg",
+    "label": "TESAMORELIN 10mg",
+    "action": "adjust",
+    "actionLabel": "Restocked",
+    "delta": 1,
+    "note": "Restocked",
+    "before": {
+      "product": "TESAMORELIN",
+      "strength": "10mg",
+      "quantity": 20,
+      "id": "tesamorelin--10mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": ""
+    },
+    "after": {
+      "product": "TESAMORELIN",
+      "strength": "10mg",
+      "quantity": 21,
+      "id": "tesamorelin--10mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-08-19T15:54:29.496Z"
+    },
+    "timestamp": "2026-08-19T15:54:29.496Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "5c99df76-e7ac-43b0-bddf-5e3ace4dd104",
     "itemId": "ss-31--10mg",
     "label": "SS-31 10mg",
