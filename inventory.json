@@ -118,14 +118,14 @@
   {
     "product": "TESAMORELIN",
     "strength": "10mg",
-    "quantity": 21,
+    "quantity": 22,
     "id": "tesamorelin--10mg",
     "sku": "",
     "category": "",
     "moreOnWay": false,
     "incomingQuantity": 0,
     "expectedArrival": "",
-    "updatedAt": "2026-08-19T15:54:29.496Z"
+    "updatedAt": "2026-08-19T15:54:39.171Z"
   },
   {
     "product": "Tirzepatide",
