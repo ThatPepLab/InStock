@@ -37,13 +37,14 @@
   {
     "product": "GLP-3RT",
     "strength": "20mg",
-    "quantity": 10,
+    "quantity": 9,
     "id": "glp-3rt--20mg",
     "sku": "",
     "category": "",
     "moreOnWay": false,
     "incomingQuantity": 0,
-    "expectedArrival": ""
+    "expectedArrival": "",
+    "updatedAt": "2026-08-19T15:53:33.959Z"
   },
   {
     "product": "HGH 191AA",
