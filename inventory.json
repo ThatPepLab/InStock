@@ -94,13 +94,14 @@
   {
     "product": "Semax",
     "strength": "10mg",
-    "quantity": 7,
+    "quantity": 6,
     "id": "semax--10mg",
     "sku": "",
     "category": "",
     "moreOnWay": false,
     "incomingQuantity": 0,
-    "expectedArrival": ""
+    "expectedArrival": "",
+    "updatedAt": "2026-08-19T15:54:00.019Z"
   },
   {
     "product": "SS-31",
