@@ -1,5 +1,30 @@
 [
   {
+    "id": "0b320022-8606-4996-9717-86475e397fcc",
+    "itemId": "tirzepatide--20mg",
+    "label": "Tirzepatide 20mg",
+    "action": "save",
+    "actionLabel": "Product added",
+    "delta": 0,
+    "note": "",
+    "before": null,
+    "after": {
+      "product": "Tirzepatide",
+      "strength": "20mg",
+      "sku": "",
+      "category": "Weight Loss",
+      "quantity": 0,
+      "moreOnWay": true,
+      "incomingQuantity": 7,
+      "expectedArrival": "2026-08-26",
+      "id": "tirzepatide--20mg",
+      "updatedAt": "2026-08-19T20:25:45.461Z"
+    },
+    "timestamp": "2026-08-19T20:25:45.461Z",
+    "undoable": false,
+    "undone": false
+  },
+  {
     "id": "21d9a955-ec31-44ab-8b59-c4e5ee6ef7ae",
     "itemId": "tesamorelin--10mg",
     "label": "TESAMORELIN 10mg",
