@@ -1,5 +1,41 @@
 [
   {
+    "id": "ac6e0fc2-431f-4ead-b60b-23e90c405734",
+    "itemId": "glp-3rt--10mg",
+    "label": "GLP-3RT 10mg",
+    "action": "receive",
+    "actionLabel": "Shipment received",
+    "delta": 20,
+    "note": "Expected arrival was 2026-08-19",
+    "before": {
+      "id": "glp-3rt--10mg",
+      "product": "GLP-3RT",
+      "strength": "10mg",
+      "sku": "",
+      "category": "Weight Loss",
+      "quantity": 2,
+      "moreOnWay": true,
+      "incomingQuantity": 20,
+      "expectedArrival": "2026-08-19",
+      "updatedAt": "2026-08-21T16:29:23.947Z"
+    },
+    "after": {
+      "id": "glp-3rt--10mg",
+      "product": "GLP-3RT",
+      "strength": "10mg",
+      "sku": "",
+      "category": "Weight Loss",
+      "quantity": 22,
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-08-21T21:55:07.073Z"
+    },
+    "timestamp": "2026-08-21T21:55:07.073Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "9589d7c8-64fe-4b42-a37c-45e18a4dda23",
     "itemId": "tirzepatide--15mg",
     "label": "Tirzepatide 15mg",
