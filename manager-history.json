@@ -1,5 +1,41 @@
 [
   {
+    "id": "c56b40dd-1e47-4d72-9945-0ca4a37a226d",
+    "itemId": "glp-3rt--20mg",
+    "label": "GLP-3RT 20mg",
+    "action": "adjust",
+    "actionLabel": "Sold",
+    "delta": -1,
+    "note": "Sold",
+    "before": {
+      "product": "GLP-3RT",
+      "strength": "20mg",
+      "quantity": 8,
+      "id": "glp-3rt--20mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-08-21T16:29:11.292Z"
+    },
+    "after": {
+      "product": "GLP-3RT",
+      "strength": "20mg",
+      "quantity": 7,
+      "id": "glp-3rt--20mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-08-21T16:29:14.136Z"
+    },
+    "timestamp": "2026-08-21T16:29:14.136Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "cc995c6e-2528-47f2-98e7-7e8d5a6054ed",
     "itemId": "glp-3rt--20mg",
     "label": "GLP-3RT 20mg",
