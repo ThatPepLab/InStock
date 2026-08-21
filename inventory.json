@@ -144,12 +144,12 @@
     "strength": "15mg",
     "sku": "",
     "category": "Weight Loss",
-    "quantity": 0,
-    "moreOnWay": true,
-    "incomingQuantity": 10,
-    "expectedArrival": "2026-08-20",
+    "quantity": 10,
+    "moreOnWay": false,
+    "incomingQuantity": 0,
+    "expectedArrival": "",
     "id": "tirzepatide--15mg",
-    "updatedAt": "2026-08-17T15:57:06.751Z"
+    "updatedAt": "2026-08-21T21:54:52.008Z"
   },
   {
     "product": "Tirzepatide",
