@@ -1,5 +1,41 @@
 [
   {
+    "id": "9589d7c8-64fe-4b42-a37c-45e18a4dda23",
+    "itemId": "tirzepatide--15mg",
+    "label": "Tirzepatide 15mg",
+    "action": "receive",
+    "actionLabel": "Shipment received",
+    "delta": 10,
+    "note": "Expected arrival was 2026-08-20",
+    "before": {
+      "product": "Tirzepatide",
+      "strength": "15mg",
+      "sku": "",
+      "category": "Weight Loss",
+      "quantity": 0,
+      "moreOnWay": true,
+      "incomingQuantity": 10,
+      "expectedArrival": "2026-08-20",
+      "id": "tirzepatide--15mg",
+      "updatedAt": "2026-08-17T15:57:06.751Z"
+    },
+    "after": {
+      "product": "Tirzepatide",
+      "strength": "15mg",
+      "sku": "",
+      "category": "Weight Loss",
+      "quantity": 10,
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "id": "tirzepatide--15mg",
+      "updatedAt": "2026-08-21T21:54:52.008Z"
+    },
+    "timestamp": "2026-08-21T21:54:52.008Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "fe87de39-6880-412e-a12d-d5055802fbd7",
     "itemId": "hgh-191aa--15iu",
     "label": "HGH 191AA 15iu",
