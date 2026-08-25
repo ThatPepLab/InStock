@@ -1,5 +1,41 @@
 [
   {
+    "id": "776c3748-2190-4176-9ac6-8988b95ee168",
+    "itemId": "hgh-191aa--36iu",
+    "label": "HGH 191AA 36iu",
+    "action": "receive",
+    "actionLabel": "Shipment received",
+    "delta": 5,
+    "note": "Expected arrival was 2026-08-26",
+    "before": {
+      "product": "HGH 191AA",
+      "strength": "36iu",
+      "sku": "",
+      "category": "Growth & Performance",
+      "quantity": 0,
+      "moreOnWay": true,
+      "incomingQuantity": 5,
+      "expectedArrival": "2026-08-26",
+      "id": "hgh-191aa--36iu",
+      "updatedAt": "2026-08-19T20:26:12.784Z"
+    },
+    "after": {
+      "product": "HGH 191AA",
+      "strength": "36iu",
+      "sku": "",
+      "category": "Growth & Performance",
+      "quantity": 5,
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "id": "hgh-191aa--36iu",
+      "updatedAt": "2026-08-25T20:39:07.699Z"
+    },
+    "timestamp": "2026-08-25T20:39:07.699Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "ac6e0fc2-431f-4ead-b60b-23e90c405734",
     "itemId": "glp-3rt--10mg",
     "label": "GLP-3RT 10mg",
