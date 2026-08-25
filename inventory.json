@@ -156,11 +156,11 @@
     "strength": "20mg",
     "sku": "",
     "category": "Weight Loss",
-    "quantity": 0,
-    "moreOnWay": true,
-    "incomingQuantity": 7,
-    "expectedArrival": "2026-08-26",
+    "quantity": 7,
+    "moreOnWay": false,
+    "incomingQuantity": 0,
+    "expectedArrival": "",
     "id": "tirzepatide--20mg",
-    "updatedAt": "2026-08-19T20:25:45.461Z"
+    "updatedAt": "2026-08-25T20:39:14.935Z"
   }
 ]
