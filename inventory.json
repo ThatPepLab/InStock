@@ -84,13 +84,14 @@
   {
     "product": "NAD+",
     "strength": "1000mg",
-    "quantity": 8,
+    "quantity": 7,
     "id": "nad--1000mg",
     "sku": "",
     "category": "",
     "moreOnWay": false,
     "incomingQuantity": 0,
-    "expectedArrival": ""
+    "expectedArrival": "",
+    "updatedAt": "2026-09-04T17:25:47.842Z"
   },
   {
     "product": "SELANK",
