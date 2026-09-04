@@ -1,5 +1,41 @@
 [
   {
+    "id": "b27084d5-4f31-4959-9611-64fe1254f1a2",
+    "itemId": "nad--1000mg",
+    "label": "NAD+ 1000mg",
+    "action": "adjust",
+    "actionLabel": "Sold",
+    "delta": -1,
+    "note": "Sold",
+    "before": {
+      "product": "NAD+",
+      "strength": "1000mg",
+      "quantity": 6,
+      "id": "nad--1000mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-09-04T17:25:56.884Z"
+    },
+    "after": {
+      "product": "NAD+",
+      "strength": "1000mg",
+      "quantity": 5,
+      "id": "nad--1000mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-09-04T17:25:59.618Z"
+    },
+    "timestamp": "2026-09-04T17:25:59.618Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "f80f59da-e431-4a68-a940-8cee7305c959",
     "itemId": "nad--1000mg",
     "label": "NAD+ 1000mg",
