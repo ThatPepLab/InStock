@@ -1,5 +1,41 @@
 [
   {
+    "id": "4beda37d-e577-4d6f-ba7f-41caaa13cd5d",
+    "itemId": "hgh-191aa--15iu",
+    "label": "HGH 191AA 15iu",
+    "action": "adjust",
+    "actionLabel": "Sold",
+    "delta": -1,
+    "note": "Sold",
+    "before": {
+      "product": "HGH 191AA",
+      "strength": "15iu",
+      "sku": "",
+      "category": "Growth & Performance",
+      "quantity": 10,
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "id": "hgh-191aa--15iu",
+      "updatedAt": "2026-08-21T21:54:43.487Z"
+    },
+    "after": {
+      "product": "HGH 191AA",
+      "strength": "15iu",
+      "sku": "",
+      "category": "Growth & Performance",
+      "quantity": 9,
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "id": "hgh-191aa--15iu",
+      "updatedAt": "2026-09-04T17:25:41.620Z"
+    },
+    "timestamp": "2026-09-04T17:25:41.620Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "89cab965-d4bc-4218-ae6e-6c5ea799dc0f",
     "itemId": "bpc-157-tb500--20mg",
     "label": "BPC-157 + TB500 20mg",
