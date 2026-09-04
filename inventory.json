@@ -1,15 +1,15 @@
 [
   {
+    "id": "bpc-157-tb500--20mg",
     "product": "BPC-157 + TB500",
     "strength": "20mg",
-    "quantity": 1,
-    "id": "bpc-157-tb500--20mg",
     "sku": "",
-    "category": "",
-    "moreOnWay": false,
-    "incomingQuantity": 0,
-    "expectedArrival": "",
-    "updatedAt": "2026-09-04T17:25:31.859Z"
+    "category": "Recovery & Repair",
+    "quantity": 1,
+    "moreOnWay": true,
+    "incomingQuantity": 11,
+    "expectedArrival": "2026-09-10",
+    "updatedAt": "2026-09-04T17:27:59.303Z"
   },
   {
     "product": "GHK-Cu",
