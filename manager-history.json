@@ -1,5 +1,41 @@
 [
   {
+    "id": "8ed4cbcf-f4d6-497f-ac8c-526c94881814",
+    "itemId": "bpc-157-tb500--20mg",
+    "label": "BPC-157 + TB500 20mg",
+    "action": "save",
+    "actionLabel": "Product edited",
+    "delta": 0,
+    "note": "",
+    "before": {
+      "product": "BPC-157 + TB500",
+      "strength": "20mg",
+      "quantity": 1,
+      "id": "bpc-157-tb500--20mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-09-04T17:25:31.859Z"
+    },
+    "after": {
+      "id": "bpc-157-tb500--20mg",
+      "product": "BPC-157 + TB500",
+      "strength": "20mg",
+      "sku": "",
+      "category": "Recovery & Repair",
+      "quantity": 1,
+      "moreOnWay": true,
+      "incomingQuantity": 11,
+      "expectedArrival": "2026-09-10",
+      "updatedAt": "2026-09-04T17:27:59.303Z"
+    },
+    "timestamp": "2026-09-04T17:27:59.303Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "16452d0c-565a-4cdc-8ef1-5696b44d3c3a",
     "itemId": "glp-3rt--20mg",
     "label": "GLP-3RT 20mg",
