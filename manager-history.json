@@ -1,5 +1,41 @@
 [
   {
+    "id": "072168d0-9e7e-45c9-92b2-9da60bde53e7",
+    "itemId": "glp-3rt--20mg",
+    "label": "GLP-3RT 20mg",
+    "action": "save",
+    "actionLabel": "Product edited",
+    "delta": 0,
+    "note": "",
+    "before": {
+      "id": "glp-3rt--20mg",
+      "product": "GLP-3RT",
+      "strength": "20mg",
+      "sku": "",
+      "category": "Weight Loss",
+      "quantity": 3,
+      "moreOnWay": true,
+      "incomingQuantity": 20,
+      "expectedArrival": "2026-09-09",
+      "updatedAt": "2026-09-04T17:27:40.619Z"
+    },
+    "after": {
+      "id": "glp-3rt--20mg",
+      "product": "GLP-3RT",
+      "strength": "20mg",
+      "sku": "",
+      "category": "Weight Loss",
+      "quantity": 3,
+      "moreOnWay": true,
+      "incomingQuantity": 20,
+      "expectedArrival": "2026-09-11",
+      "updatedAt": "2026-09-09T17:31:25.448Z"
+    },
+    "timestamp": "2026-09-09T17:31:25.448Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "8ed4cbcf-f4d6-497f-ac8c-526c94881814",
     "itemId": "bpc-157-tb500--20mg",
     "label": "BPC-157 + TB500 20mg",
