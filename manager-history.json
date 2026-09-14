@@ -1,5 +1,41 @@
 [
   {
+    "id": "c009647b-eb2f-4fbc-a63e-caabd54ebc9e",
+    "itemId": "bpc-157-tb500--20mg",
+    "label": "BPC-157 + TB500 20mg",
+    "action": "save",
+    "actionLabel": "Product edited",
+    "delta": 0,
+    "note": "",
+    "before": {
+      "id": "bpc-157-tb500--20mg",
+      "product": "BPC-157 + TB500",
+      "strength": "20mg",
+      "sku": "",
+      "category": "Recovery & Repair",
+      "quantity": 0,
+      "moreOnWay": true,
+      "incomingQuantity": 11,
+      "expectedArrival": "2026-09-10",
+      "updatedAt": "2026-09-14T20:18:16.935Z"
+    },
+    "after": {
+      "id": "bpc-157-tb500--20mg",
+      "product": "BPC-157 + TB500",
+      "strength": "20mg",
+      "sku": "",
+      "category": "Recovery & Repair",
+      "quantity": 0,
+      "moreOnWay": true,
+      "incomingQuantity": 10,
+      "expectedArrival": "2026-09-25",
+      "updatedAt": "2026-09-14T20:18:35.982Z"
+    },
+    "timestamp": "2026-09-14T20:18:35.982Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "be56750f-4423-42e4-b261-95634eafd3d3",
     "itemId": "bpc-157-tb500--20mg",
     "label": "BPC-157 + TB500 20mg",
