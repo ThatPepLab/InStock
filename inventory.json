@@ -6,10 +6,10 @@
     "sku": "",
     "category": "Recovery & Repair",
     "quantity": 0,
-    "moreOnWay": true,
-    "incomingQuantity": 10,
-    "expectedArrival": "2026-09-25",
-    "updatedAt": "2026-09-14T20:18:35.982Z"
+    "moreOnWay": false,
+    "incomingQuantity": 0,
+    "expectedArrival": "",
+    "updatedAt": "2026-09-14T20:18:46.144Z"
   },
   {
     "product": "GHK-Cu",
