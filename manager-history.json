@@ -1,5 +1,41 @@
 [
   {
+    "id": "14cf5997-85be-4ae4-a6c3-7a8d99e16346",
+    "itemId": "hgh-191aa--36iu",
+    "label": "HGH 191AA 36iu",
+    "action": "adjust",
+    "actionLabel": "Sold",
+    "delta": -1,
+    "note": "Sold",
+    "before": {
+      "product": "HGH 191AA",
+      "strength": "36iu",
+      "sku": "",
+      "category": "Growth & Performance",
+      "quantity": 6,
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "id": "hgh-191aa--36iu",
+      "updatedAt": "2026-09-09T17:31:27.945Z"
+    },
+    "after": {
+      "product": "HGH 191AA",
+      "strength": "36iu",
+      "sku": "",
+      "category": "Growth & Performance",
+      "quantity": 5,
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "id": "hgh-191aa--36iu",
+      "updatedAt": "2026-09-14T20:19:37.220Z"
+    },
+    "timestamp": "2026-09-14T20:19:37.220Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "652b826b-fb82-419a-ba28-657f1291aa50",
     "itemId": "hgh-191aa--15iu",
     "label": "HGH 191AA 15iu",
