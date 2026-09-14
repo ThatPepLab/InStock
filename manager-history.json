@@ -1,5 +1,41 @@
 [
   {
+    "id": "6fe44d7f-8604-4736-bdf0-25ba60f86a06",
+    "itemId": "hgh-191aa--15iu",
+    "label": "HGH 191AA 15iu",
+    "action": "adjust",
+    "actionLabel": "Sold",
+    "delta": -1,
+    "note": "Sold",
+    "before": {
+      "product": "HGH 191AA",
+      "strength": "15iu",
+      "sku": "",
+      "category": "Growth & Performance",
+      "quantity": 9,
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "id": "hgh-191aa--15iu",
+      "updatedAt": "2026-09-04T17:25:41.620Z"
+    },
+    "after": {
+      "product": "HGH 191AA",
+      "strength": "15iu",
+      "sku": "",
+      "category": "Growth & Performance",
+      "quantity": 8,
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "id": "hgh-191aa--15iu",
+      "updatedAt": "2026-09-14T20:19:26.753Z"
+    },
+    "timestamp": "2026-09-14T20:19:26.753Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "1a3620c0-703f-4716-9a94-696030c9eb2f",
     "itemId": "nad--1000mg",
     "label": "NAD+ 1000mg",
