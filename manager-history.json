@@ -1,5 +1,41 @@
 [
   {
+    "id": "b7551378-205a-4a62-9466-d5bf46a7142b",
+    "itemId": "nad--1000mg",
+    "label": "NAD+ 1000mg",
+    "action": "adjust",
+    "actionLabel": "Sold",
+    "delta": -1,
+    "note": "Sold",
+    "before": {
+      "product": "NAD+",
+      "strength": "1000mg",
+      "quantity": 5,
+      "id": "nad--1000mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-09-04T17:25:59.618Z"
+    },
+    "after": {
+      "product": "NAD+",
+      "strength": "1000mg",
+      "quantity": 4,
+      "id": "nad--1000mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-09-14T20:19:08.682Z"
+    },
+    "timestamp": "2026-09-14T20:19:08.682Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "03d9eeea-4559-4d21-aacd-16b0d57c0633",
     "itemId": "bpc-157-tb500--20mg",
     "label": "BPC-157 + TB500 20mg",
