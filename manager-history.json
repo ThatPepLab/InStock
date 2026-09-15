@@ -1,5 +1,30 @@
 [
   {
+    "id": "9184867e-623f-4eed-abea-e4ec567e6961",
+    "itemId": "klow--80mg",
+    "label": "KLOW 80mg",
+    "action": "save",
+    "actionLabel": "Product added",
+    "delta": 0,
+    "note": "",
+    "before": null,
+    "after": {
+      "product": "KLOW",
+      "strength": "80mg",
+      "sku": "",
+      "category": "Recovery & Repair",
+      "quantity": 0,
+      "moreOnWay": true,
+      "incomingQuantity": 10,
+      "expectedArrival": "2026-09-22",
+      "id": "klow--80mg",
+      "updatedAt": "2026-09-15T17:07:01.196Z"
+    },
+    "timestamp": "2026-09-15T17:07:01.196Z",
+    "undoable": false,
+    "undone": false
+  },
+  {
     "id": "4095970b-9e19-4ac2-b757-9d2864ee02d6",
     "itemId": "glow--70mg",
     "label": "GLOW 70mg",
