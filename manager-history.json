@@ -1,5 +1,41 @@
 [
   {
+    "id": "1ee7c5b7-3b49-4598-ab48-d809807253dc",
+    "itemId": "glp-3rt--20mg",
+    "label": "GLP-3RT 20mg",
+    "action": "adjust",
+    "actionLabel": "Sold",
+    "delta": -1,
+    "note": "Sold",
+    "before": {
+      "id": "glp-3rt--20mg",
+      "product": "GLP-3RT",
+      "strength": "20mg",
+      "sku": "",
+      "category": "Weight Loss",
+      "quantity": 11,
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-09-15T17:08:08.370Z"
+    },
+    "after": {
+      "id": "glp-3rt--20mg",
+      "product": "GLP-3RT",
+      "strength": "20mg",
+      "sku": "",
+      "category": "Weight Loss",
+      "quantity": 10,
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-09-15T17:08:11.159Z"
+    },
+    "timestamp": "2026-09-15T17:08:11.159Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "51d7bc8e-75ae-4406-8052-912f7e235120",
     "itemId": "glp-3rt--20mg",
     "label": "GLP-3RT 20mg",
