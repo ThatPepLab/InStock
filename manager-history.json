@@ -1,5 +1,30 @@
 [
   {
+    "id": "4095970b-9e19-4ac2-b757-9d2864ee02d6",
+    "itemId": "glow--70mg",
+    "label": "GLOW 70mg",
+    "action": "save",
+    "actionLabel": "Product added",
+    "delta": 0,
+    "note": "",
+    "before": null,
+    "after": {
+      "product": "GLOW",
+      "strength": "70mg",
+      "sku": "",
+      "category": "Recovery & Repair",
+      "quantity": 0,
+      "moreOnWay": true,
+      "incomingQuantity": 10,
+      "expectedArrival": "2026-09-22",
+      "id": "glow--70mg",
+      "updatedAt": "2026-09-15T17:06:38.640Z"
+    },
+    "timestamp": "2026-09-15T17:06:38.640Z",
+    "undoable": false,
+    "undone": false
+  },
+  {
     "id": "14cf5997-85be-4ae4-a6c3-7a8d99e16346",
     "itemId": "hgh-191aa--36iu",
     "label": "HGH 191AA 36iu",
