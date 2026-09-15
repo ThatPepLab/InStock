@@ -1,3 +1,4 @@
+# Keeps Inventory Manager aligned with the Retail-visible catalog.
 name: Sync Retail Catalog to Inventory Manager
 
 on:
