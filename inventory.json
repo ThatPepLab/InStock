@@ -23,6 +23,18 @@
     "expectedArrival": ""
   },
   {
+    "product": "GLOW",
+    "strength": "70mg",
+    "sku": "",
+    "category": "Recovery & Repair",
+    "quantity": 0,
+    "moreOnWay": true,
+    "incomingQuantity": 10,
+    "expectedArrival": "2026-09-22",
+    "id": "glow--70mg",
+    "updatedAt": "2026-09-15T17:06:38.640Z"
+  },
+  {
     "id": "glp-3rt--10mg",
     "product": "GLP-3RT",
     "strength": "10mg",
