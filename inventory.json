@@ -83,6 +83,18 @@
     "updatedAt": "2026-09-14T20:19:37.220Z"
   },
   {
+    "product": "KLOW",
+    "strength": "80mg",
+    "sku": "",
+    "category": "Recovery & Repair",
+    "quantity": 0,
+    "moreOnWay": true,
+    "incomingQuantity": 10,
+    "expectedArrival": "2026-09-22",
+    "id": "klow--80mg",
+    "updatedAt": "2026-09-15T17:07:01.196Z"
+  },
+  {
     "product": "MOTS-C",
     "strength": "40mg",
     "quantity": 10,
