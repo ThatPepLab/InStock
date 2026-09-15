@@ -1,5 +1,41 @@
 [
   {
+    "id": "b3b38f20-fb44-4ecc-bf1a-401f7f4fa26d",
+    "itemId": "glp-3rt--20mg",
+    "label": "GLP-3RT 20mg",
+    "action": "save",
+    "actionLabel": "Product edited",
+    "delta": 0,
+    "note": "",
+    "before": {
+      "id": "glp-3rt--20mg",
+      "product": "GLP-3RT",
+      "strength": "20mg",
+      "sku": "",
+      "category": "Weight Loss",
+      "quantity": 8,
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-09-15T17:08:15.733Z"
+    },
+    "after": {
+      "id": "glp-3rt--20mg",
+      "product": "GLP-3RT",
+      "strength": "20mg",
+      "sku": "",
+      "category": "Weight Loss",
+      "quantity": 8,
+      "moreOnWay": true,
+      "incomingQuantity": 20,
+      "expectedArrival": "2026-09-22",
+      "updatedAt": "2026-09-15T22:45:44.404Z"
+    },
+    "timestamp": "2026-09-15T22:45:44.404Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "5a9273e4-8c5c-4ab3-b5e4-f77049f20563",
     "itemId": "testosterone-cypionate--10ml",
     "label": "Testosterone Cypionate 10ml",
