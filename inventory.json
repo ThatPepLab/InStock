@@ -165,6 +165,18 @@
     "updatedAt": "2026-08-19T15:54:39.171Z"
   },
   {
+    "product": "Testosterone Cypionate",
+    "strength": "10ml",
+    "sku": "",
+    "category": "Oil Based",
+    "quantity": 0,
+    "moreOnWay": true,
+    "incomingQuantity": 4,
+    "expectedArrival": "2026-09-22",
+    "id": "testosterone-cypionate--10ml",
+    "updatedAt": "2026-09-15T22:45:06.301Z"
+  },
+  {
     "product": "Tirzepatide",
     "strength": "15mg",
     "sku": "",
