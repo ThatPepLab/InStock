@@ -1,5 +1,30 @@
 [
   {
+    "id": "5a9273e4-8c5c-4ab3-b5e4-f77049f20563",
+    "itemId": "testosterone-cypionate--10ml",
+    "label": "Testosterone Cypionate 10ml",
+    "action": "save",
+    "actionLabel": "Product added",
+    "delta": 0,
+    "note": "",
+    "before": null,
+    "after": {
+      "product": "Testosterone Cypionate",
+      "strength": "10ml",
+      "sku": "",
+      "category": "Oil Based",
+      "quantity": 0,
+      "moreOnWay": true,
+      "incomingQuantity": 4,
+      "expectedArrival": "2026-09-22",
+      "id": "testosterone-cypionate--10ml",
+      "updatedAt": "2026-09-15T22:45:06.301Z"
+    },
+    "timestamp": "2026-09-15T22:45:06.301Z",
+    "undoable": false,
+    "undone": false
+  },
+  {
     "id": "ffca81c7-de15-4a20-9179-9232e9be6648",
     "itemId": "glp-3rt--20mg",
     "label": "GLP-3RT 20mg",
