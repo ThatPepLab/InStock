@@ -1,5 +1,41 @@
 [
   {
+    "id": "1536a0e5-960a-4837-a52d-0413902afaca",
+    "itemId": "glp-3rt--10mg",
+    "label": "GLP-3RT 10mg",
+    "action": "adjust",
+    "actionLabel": "Sold",
+    "delta": -1,
+    "note": "Sold",
+    "before": {
+      "id": "glp-3rt--10mg",
+      "product": "GLP-3RT",
+      "strength": "10mg",
+      "sku": "",
+      "category": "Weight Loss",
+      "quantity": 22,
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-08-21T21:55:07.073Z"
+    },
+    "after": {
+      "id": "glp-3rt--10mg",
+      "product": "GLP-3RT",
+      "strength": "10mg",
+      "sku": "",
+      "category": "Weight Loss",
+      "quantity": 21,
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-09-15T17:07:55.033Z"
+    },
+    "timestamp": "2026-09-15T17:07:55.033Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "9184867e-623f-4eed-abea-e4ec567e6961",
     "itemId": "klow--80mg",
     "label": "KLOW 80mg",
