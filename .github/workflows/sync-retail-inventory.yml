@@ -1,0 +1,139 @@
+name: Sync Retail Catalog to Inventory Manager
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out inventory
+        uses: actions/checkout@v4
+
+      - name: Add every Retail product and strength to inventory
+        run: |
+          python - <<'PY'
+          import json
+          import re
+          import urllib.request
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          CATALOG_URL = "https://raw.githubusercontent.com/ThatPepLab/Wholesale/main/catalog-data.json"
+          INVENTORY_PATH = Path("inventory.json")
+
+          with urllib.request.urlopen(CATALOG_URL, timeout=30) as response:
+              catalog = json.load(response)
+
+          inventory = json.loads(INVENTORY_PATH.read_text()) if INVENTORY_PATH.exists() else []
+
+          OIL_NAMES = {
+              "nandrolone decanoate", "boldenone undecylenate", "nandrolone phenylpropionate",
+              "methenolone enanthate", "testosterone cypionate", "testosterone enanthate",
+              "testosterone propionate", "trenbolone acetate", "trenbolone enanthate",
+              "drostanolone propionate", "drostanolone enanthate", "testosterone blend"
+          }
+
+          CATEGORY_PATTERNS = [
+              ("Weight Loss", re.compile(r"semaglutide|tirzepatide|trizepatide|glp-?3rt|cagrilintide|cagilintide|mazdutide|survodutide|eloralintide|adipotide|aod-?9604|hgh fragment|lemon bottle|lipo lab|lipo-[bc]|lipo-c|fat blaster|5-amino", re.I)),
+              ("Energy & Metabolic", re.compile(r"mots|ss-?31|nad\+|aicar|slu-?pp|l-carnitine|lc120|lc216|mic\b|superhuman|humanin|vitamin b12", re.I)),
+              ("Recovery & Repair", re.compile(r"bpc|tb500|tb-?500|glow|klow|kpv|ll-?37|ara-?290|cartalax|bronchogen|cardiogen|vesugen|lysine-proline-valine", re.I)),
+              ("Growth & Performance", re.compile(r"hgh|cjc|ghrp|ipamorelin|tesamorelin|sermorelin|igf|mgf|follistatin|ace-?031|gdf-?8|mk677|epo\b", re.I)),
+              ("Cognitive & Mood", re.compile(r"semax|selank|dihexa|dsip|pe-?22|pinealon|cerebrolysin|cortagen|adamax|melatonin|relaxation", re.I)),
+              ("Sexual & Hormone", re.compile(r"pt-?141|oxytocin|hcg\b|hmg\b|kisspeptin|gonadorelin|alprostadil|testagen|testosterone", re.I)),
+              ("Skin, Hair & Beauty", re.compile(r"melanotan|snap-?8|matrixyl|ahk-?cu|ghk-?cu|healthy hair|botulinum|hyaluronic", re.I)),
+              ("Immune & Wellness", re.compile(r"thym|epithalon|glutathione|foxo|pnc|vilon|crystagen|vip\b|vasoactive|dermorphin", re.I)),
+              ("Supplies", re.compile(r"water|saline|phosphate buffered|acetic acid", re.I)),
+          ]
+
+          def clean(value):
+              return str(value or "").strip()
+
+          def key(product, strength):
+              return (clean(product).lower(), clean(strength).lower())
+
+          def slug(value):
+              return re.sub(r"^-|-$", "", re.sub(r"[^a-z0-9]+", "-", clean(value).lower()))
+
+          def category_for(name):
+              lowered = clean(name).lower()
+              if lowered in OIL_NAMES:
+                  return "Oil Based"
+              for category, pattern in CATEGORY_PATTERNS:
+                  if pattern.search(name):
+                      return category
+              return "Other"
+
+          def retail_visible(product):
+              name = clean(product.get("name"))
+              items = product.get("items") if isinstance(product.get("items"), list) else []
+              if not name or any(clean(item.get("packageUnit")).lower() == "tablet" for item in items):
+                  return False
+              category = category_for(name)
+              if category == "Other":
+                  return False
+              if category == "Supplies":
+                  return name.lower() == "bac water"
+              return True
+
+          existing = {key(item.get("product"), item.get("strength")): item for item in inventory if item.get("product") and item.get("strength")}
+          added = 0
+          categorized = 0
+          synced_at = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
+
+          for product in catalog:
+              if not retail_visible(product):
+                  continue
+              product_name = clean(product.get("name"))
+              category = category_for(product_name)
+              for catalog_item in product.get("items", []):
+                  if clean(catalog_item.get("packageUnit")).lower() == "tablet":
+                      continue
+                  strength = clean(catalog_item.get("strength"))
+                  if not strength:
+                      continue
+                  item_key = key(product_name, strength)
+                  if item_key in existing:
+                      if not clean(existing[item_key].get("category")):
+                          existing[item_key]["category"] = category
+                          categorized += 1
+                      continue
+                  new_item = {
+                      "id": f"{slug(product_name)}--{slug(strength)}",
+                      "product": product_name,
+                      "strength": strength,
+                      "sku": "",
+                      "category": category,
+                      "quantity": 0,
+                      "moreOnWay": False,
+                      "incomingQuantity": 0,
+                      "expectedArrival": "",
+                      "updatedAt": synced_at
+                  }
+                  inventory.append(new_item)
+                  existing[item_key] = new_item
+                  added += 1
+
+          inventory.sort(key=lambda item: (clean(item.get("product")).lower(), clean(item.get("strength")).lower()))
+          INVENTORY_PATH.write_text(json.dumps(inventory, indent=2) + "\n")
+          print(f"Added {added} missing Retail product/strength options; filled {categorized} blank categories.")
+          PY
+
+      - name: Commit synchronized inventory
+        run: |
+          if git diff --quiet -- inventory.json; then
+            echo "Inventory Manager already matches Retail."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add inventory.json
+          git commit -m "Sync Inventory Manager with Retail catalog"
+          git push
