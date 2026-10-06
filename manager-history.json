@@ -1,5 +1,43 @@
 [
   {
+    "id": "d4b3c54c-bbed-4b49-ae94-9ab20f52bf2b",
+    "itemId": "glow--70mg",
+    "label": "GLOW 70mg",
+    "action": "save",
+    "actionLabel": "Product edited",
+    "delta": 0,
+    "note": "",
+    "before": {
+      "product": "GLOW",
+      "strength": "70mg",
+      "sku": "",
+      "category": "Recovery & Repair",
+      "quantity": 0,
+      "moreOnWay": true,
+      "incomingQuantity": 10,
+      "expectedArrival": "2026-09-22",
+      "id": "glow--70mg",
+      "updatedAt": "2026-09-15T17:06:38.640Z",
+      "internalOnly": false
+    },
+    "after": {
+      "id": "glow--70mg",
+      "product": "GLOW",
+      "strength": "70mg",
+      "sku": "",
+      "category": "Recovery & Repair",
+      "quantity": 0,
+      "moreOnWay": true,
+      "incomingQuantity": 10,
+      "expectedArrival": "2026-11-01",
+      "internalOnly": false,
+      "updatedAt": "2026-10-06T19:12:27.724Z"
+    },
+    "timestamp": "2026-10-06T19:12:27.724Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "a308165d-dfcf-42b3-a5a8-cbde7ed3576f",
     "itemId": "klow--80mg",
     "label": "KLOW 80mg",
