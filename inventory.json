@@ -52,11 +52,11 @@
     "strength": "20mg",
     "sku": "",
     "category": "Weight Loss",
-    "quantity": 8,
-    "moreOnWay": true,
-    "incomingQuantity": 20,
-    "expectedArrival": "2026-09-22",
-    "updatedAt": "2026-09-15T22:45:44.404Z"
+    "quantity": 28,
+    "moreOnWay": false,
+    "incomingQuantity": 0,
+    "expectedArrival": "",
+    "updatedAt": "2026-10-06T17:57:45.434Z"
   },
   {
     "product": "HGH 191AA",
