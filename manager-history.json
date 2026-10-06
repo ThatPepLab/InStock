@@ -1,5 +1,41 @@
 [
   {
+    "id": "c96da2f9-0725-4659-9c09-8630205e997d",
+    "itemId": "testosterone-cypionate--10ml",
+    "label": "Testosterone Cypionate 10ml",
+    "action": "adjust",
+    "actionLabel": "Sold",
+    "delta": -1,
+    "note": "Sold",
+    "before": {
+      "product": "Testosterone Cypionate",
+      "strength": "10ml",
+      "sku": "",
+      "category": "Oil Based",
+      "quantity": 4,
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "id": "testosterone-cypionate--10ml",
+      "updatedAt": "2026-10-06T17:58:28.798Z"
+    },
+    "after": {
+      "product": "Testosterone Cypionate",
+      "strength": "10ml",
+      "sku": "",
+      "category": "Oil Based",
+      "quantity": 3,
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "id": "testosterone-cypionate--10ml",
+      "updatedAt": "2026-10-06T17:58:32.794Z"
+    },
+    "timestamp": "2026-10-06T17:58:32.794Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "829cd16d-cbff-4d23-9d4d-e716bd6ef04c",
     "itemId": "testosterone-cypionate--10ml",
     "label": "Testosterone Cypionate 10ml",
