@@ -175,7 +175,8 @@
     "incomingQuantity": 0,
     "expectedArrival": "",
     "id": "testosterone-cypionate--10ml",
-    "updatedAt": "2026-10-06T17:58:36.172Z"
+    "updatedAt": "2026-10-06T17:58:36.172Z",
+    "internalOnly": true
   },
   {
     "product": "Tirzepatide",
