@@ -1,5 +1,40 @@
 [
   {
+    "id": "50af47d8-6b37-49f2-994a-a770fae06247",
+    "itemId": "mots-c--40mg",
+    "label": "MOTS-C 40mg",
+    "action": "adjust",
+    "actionLabel": "Sold",
+    "delta": -1,
+    "note": "Sold",
+    "before": {
+      "product": "MOTS-C",
+      "strength": "40mg",
+      "quantity": 10,
+      "id": "mots-c--40mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": ""
+    },
+    "after": {
+      "product": "MOTS-C",
+      "strength": "40mg",
+      "quantity": 9,
+      "id": "mots-c--40mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-10-06T17:58:11.143Z"
+    },
+    "timestamp": "2026-10-06T17:58:11.143Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "ca12fd68-c81b-4004-b50b-6f10d04d4cfb",
     "itemId": "nad--1000mg",
     "label": "NAD+ 1000mg",
