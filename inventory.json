@@ -97,13 +97,14 @@
   {
     "product": "MOTS-C",
     "strength": "40mg",
-    "quantity": 10,
+    "quantity": 9,
     "id": "mots-c--40mg",
     "sku": "",
     "category": "",
     "moreOnWay": false,
     "incomingQuantity": 0,
-    "expectedArrival": ""
+    "expectedArrival": "",
+    "updatedAt": "2026-10-06T17:58:11.143Z"
   },
   {
     "product": "NAD+",
