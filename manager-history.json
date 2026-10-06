@@ -1,5 +1,31 @@
 [
   {
+    "id": "392ca27a-0306-4242-97fe-7292c5df6887",
+    "itemId": "wolverine--10mg",
+    "label": "Wolverine 10mg",
+    "action": "save",
+    "actionLabel": "Product added",
+    "delta": 10,
+    "note": "",
+    "before": null,
+    "after": {
+      "product": "Wolverine",
+      "strength": "10mg",
+      "sku": "",
+      "category": "Recovery & Repair",
+      "quantity": 10,
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "internalOnly": false,
+      "id": "wolverine--10mg",
+      "updatedAt": "2026-10-06T19:11:11.510Z"
+    },
+    "timestamp": "2026-10-06T19:11:11.510Z",
+    "undoable": false,
+    "undone": false
+  },
+  {
     "id": "f1022f0d-24f2-4a8d-8f19-2672d0161ea0",
     "itemId": "testosterone-cypionate--10ml",
     "label": "Testosterone Cypionate 10ml",
