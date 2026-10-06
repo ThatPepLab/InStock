@@ -1,5 +1,43 @@
 [
   {
+    "id": "50505f1d-01a3-472a-ab78-06031189b9ad",
+    "itemId": "glp-3rt--10mg",
+    "label": "GLP-3RT 10mg",
+    "action": "adjust",
+    "actionLabel": "Mistake",
+    "delta": -37,
+    "note": "Mistake",
+    "before": {
+      "id": "glp-3rt--10mg",
+      "product": "GLP-3RT",
+      "strength": "10mg",
+      "sku": "",
+      "category": "Weight Loss",
+      "quantity": 95,
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-10-06T17:57:35.787Z",
+      "internalOnly": false
+    },
+    "after": {
+      "id": "glp-3rt--10mg",
+      "product": "GLP-3RT",
+      "strength": "10mg",
+      "sku": "",
+      "category": "Weight Loss",
+      "quantity": 58,
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-10-06T19:11:43.296Z",
+      "internalOnly": false
+    },
+    "timestamp": "2026-10-06T19:11:43.296Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "392ca27a-0306-4242-97fe-7292c5df6887",
     "itemId": "wolverine--10mg",
     "label": "Wolverine 10mg",
