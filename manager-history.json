@@ -1,5 +1,41 @@
 [
   {
+    "id": "33baf44c-e7f9-4227-a44a-b3c7c62ec2f9",
+    "itemId": "hgh-191aa--15iu",
+    "label": "HGH 191AA 15iu",
+    "action": "adjust",
+    "actionLabel": "Sold",
+    "delta": -1,
+    "note": "Sold",
+    "before": {
+      "product": "HGH 191AA",
+      "strength": "15iu",
+      "sku": "",
+      "category": "Growth & Performance",
+      "quantity": 7,
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "id": "hgh-191aa--15iu",
+      "updatedAt": "2026-09-14T20:19:29.579Z"
+    },
+    "after": {
+      "product": "HGH 191AA",
+      "strength": "15iu",
+      "sku": "",
+      "category": "Growth & Performance",
+      "quantity": 6,
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "id": "hgh-191aa--15iu",
+      "updatedAt": "2026-10-06T17:57:57.628Z"
+    },
+    "timestamp": "2026-10-06T17:57:57.628Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "361cd70e-213a-4db2-bc24-fb97b1613df1",
     "itemId": "glp-3rt--20mg",
     "label": "GLP-3RT 20mg",
