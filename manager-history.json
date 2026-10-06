@@ -1,5 +1,43 @@
 [
   {
+    "id": "a308165d-dfcf-42b3-a5a8-cbde7ed3576f",
+    "itemId": "klow--80mg",
+    "label": "KLOW 80mg",
+    "action": "save",
+    "actionLabel": "Product edited",
+    "delta": 0,
+    "note": "",
+    "before": {
+      "product": "KLOW",
+      "strength": "80mg",
+      "sku": "",
+      "category": "Recovery & Repair",
+      "quantity": 0,
+      "moreOnWay": true,
+      "incomingQuantity": 10,
+      "expectedArrival": "2026-09-22",
+      "id": "klow--80mg",
+      "updatedAt": "2026-09-15T17:07:01.196Z",
+      "internalOnly": false
+    },
+    "after": {
+      "id": "klow--80mg",
+      "product": "KLOW",
+      "strength": "80mg",
+      "sku": "",
+      "category": "Recovery & Repair",
+      "quantity": 0,
+      "moreOnWay": true,
+      "incomingQuantity": 10,
+      "expectedArrival": "2026-11-01",
+      "internalOnly": false,
+      "updatedAt": "2026-10-06T19:12:07.660Z"
+    },
+    "timestamp": "2026-10-06T19:12:07.660Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "50505f1d-01a3-472a-ab78-06031189b9ad",
     "itemId": "glp-3rt--10mg",
     "label": "GLP-3RT 10mg",
