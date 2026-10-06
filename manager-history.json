@@ -1,5 +1,41 @@
 [
   {
+    "id": "bd4641e3-d375-4678-a6d6-2fdc3bbd169b",
+    "itemId": "semax--10mg",
+    "label": "Semax 10mg",
+    "action": "adjust",
+    "actionLabel": "Sold",
+    "delta": -1,
+    "note": "Sold",
+    "before": {
+      "product": "Semax",
+      "strength": "10mg",
+      "quantity": 6,
+      "id": "semax--10mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-08-19T15:54:00.019Z"
+    },
+    "after": {
+      "product": "Semax",
+      "strength": "10mg",
+      "quantity": 5,
+      "id": "semax--10mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-10-06T17:58:15.899Z"
+    },
+    "timestamp": "2026-10-06T17:58:15.899Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "50af47d8-6b37-49f2-994a-a770fae06247",
     "itemId": "mots-c--40mg",
     "label": "MOTS-C 40mg",
