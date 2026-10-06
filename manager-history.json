@@ -1,5 +1,41 @@
 [
   {
+    "id": "3587b97c-fdc1-422a-8012-7fe4b2d76e15",
+    "itemId": "bpc-157-tb500--20mg",
+    "label": "BPC-157 + TB500 20mg",
+    "action": "adjust",
+    "actionLabel": "Reorder",
+    "delta": 10,
+    "note": "Reorder",
+    "before": {
+      "id": "bpc-157-tb500--20mg",
+      "product": "BPC-157 + TB500",
+      "strength": "20mg",
+      "sku": "",
+      "category": "Recovery & Repair",
+      "quantity": 0,
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-09-14T20:18:46.144Z"
+    },
+    "after": {
+      "id": "bpc-157-tb500--20mg",
+      "product": "BPC-157 + TB500",
+      "strength": "20mg",
+      "sku": "",
+      "category": "Recovery & Repair",
+      "quantity": 10,
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-10-06T17:53:43.328Z"
+    },
+    "timestamp": "2026-10-06T17:53:43.328Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "25b7f71e-7c04-4dac-8d79-313970b97df1",
     "itemId": "nad--1000mg",
     "label": "NAD+ 1000mg",
