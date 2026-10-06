@@ -25,6 +25,7 @@
     "internalOnly": false
   },
   {
+    "id": "glow--70mg",
     "product": "GLOW",
     "strength": "70mg",
     "sku": "",
@@ -32,10 +33,9 @@
     "quantity": 0,
     "moreOnWay": true,
     "incomingQuantity": 10,
-    "expectedArrival": "2026-09-22",
-    "id": "glow--70mg",
-    "updatedAt": "2026-09-15T17:06:38.640Z",
-    "internalOnly": false
+    "expectedArrival": "2026-11-01",
+    "internalOnly": false,
+    "updatedAt": "2026-10-06T19:12:27.724Z"
   },
   {
     "id": "glp-3rt--10mg",
