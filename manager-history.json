@@ -1,5 +1,31 @@
 [
   {
+    "id": "09e716c2-896a-4e4c-9dc3-4336f978896e",
+    "itemId": "glp-3rt--30mg",
+    "label": "GLP-3RT 30mg",
+    "action": "save",
+    "actionLabel": "Product added",
+    "delta": 0,
+    "note": "",
+    "before": null,
+    "after": {
+      "product": "GLP-3RT",
+      "strength": "30mg",
+      "sku": "",
+      "category": "Weight Loss",
+      "quantity": 0,
+      "moreOnWay": true,
+      "incomingQuantity": 50,
+      "expectedArrival": "2026-11-06",
+      "internalOnly": false,
+      "id": "glp-3rt--30mg",
+      "updatedAt": "2026-10-23T21:43:35.834Z"
+    },
+    "timestamp": "2026-10-23T21:43:35.834Z",
+    "undoable": false,
+    "undone": false
+  },
+  {
     "id": "9095e1d7-7247-4141-9395-541f7fa080d7",
     "itemId": "glp-3rt--20mg",
     "label": "GLP-3RT 20mg",
