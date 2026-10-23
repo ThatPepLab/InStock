@@ -1,5 +1,31 @@
 [
   {
+    "id": "348ef0a2-b695-4a2b-ba78-b4528da277f0",
+    "itemId": "ghk-cu--50mg",
+    "label": "GHK-Cu 50mg",
+    "action": "save",
+    "actionLabel": "Product added",
+    "delta": 0,
+    "note": "",
+    "before": null,
+    "after": {
+      "product": "GHK-Cu",
+      "strength": "50mg",
+      "sku": "",
+      "category": "Skin, Hair & Beauty",
+      "quantity": 0,
+      "moreOnWay": true,
+      "incomingQuantity": 20,
+      "expectedArrival": "2026-11-06",
+      "internalOnly": false,
+      "id": "ghk-cu--50mg",
+      "updatedAt": "2026-10-23T21:44:24.979Z"
+    },
+    "timestamp": "2026-10-23T21:44:24.979Z",
+    "undoable": false,
+    "undone": false
+  },
+  {
     "id": "3f5ac921-24ec-4095-a3a7-79889b3fe450",
     "itemId": "glow--70mg",
     "label": "GLOW 70mg",
