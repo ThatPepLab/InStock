@@ -1,5 +1,43 @@
 [
   {
+    "id": "137bbb26-d6c4-4d66-8929-b48d030d8678",
+    "itemId": "ghk-cu--100mg",
+    "label": "GHK-Cu 100mg",
+    "action": "adjust",
+    "actionLabel": "Sold",
+    "delta": -1,
+    "note": "Sold",
+    "before": {
+      "product": "GHK-Cu",
+      "strength": "100mg",
+      "quantity": 6,
+      "id": "ghk-cu--100mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "internalOnly": false,
+      "updatedAt": "2026-10-23T21:39:46.457Z"
+    },
+    "after": {
+      "product": "GHK-Cu",
+      "strength": "100mg",
+      "quantity": 5,
+      "id": "ghk-cu--100mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "internalOnly": false,
+      "updatedAt": "2026-10-23T21:39:57.742Z"
+    },
+    "timestamp": "2026-10-23T21:39:57.742Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "87859691-fb12-4f74-824a-2c369bcf7b40",
     "itemId": "ghk-cu--100mg",
     "label": "GHK-Cu 100mg",
