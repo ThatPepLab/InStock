@@ -58,11 +58,11 @@
     "sku": "",
     "category": "Weight Loss",
     "quantity": 18,
-    "moreOnWay": false,
-    "incomingQuantity": 0,
-    "expectedArrival": "",
-    "updatedAt": "2026-10-23T21:40:37.048Z",
-    "internalOnly": false
+    "moreOnWay": true,
+    "incomingQuantity": 50,
+    "expectedArrival": "2026-11-06",
+    "internalOnly": false,
+    "updatedAt": "2026-10-23T21:42:48.067Z"
   },
   {
     "product": "HGH 191AA",
