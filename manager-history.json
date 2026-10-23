@@ -1,5 +1,43 @@
 [
   {
+    "id": "309189a4-76ca-417c-9da0-175a6b4e81e2",
+    "itemId": "tesamorelin--10mg",
+    "label": "TESAMORELIN 10mg",
+    "action": "adjust",
+    "actionLabel": "Sold",
+    "delta": -1,
+    "note": "Sold",
+    "before": {
+      "product": "TESAMORELIN",
+      "strength": "10mg",
+      "quantity": 21,
+      "id": "tesamorelin--10mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-10-06T17:58:23.634Z",
+      "internalOnly": false
+    },
+    "after": {
+      "product": "TESAMORELIN",
+      "strength": "10mg",
+      "quantity": 20,
+      "id": "tesamorelin--10mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-10-23T21:45:15.051Z",
+      "internalOnly": false
+    },
+    "timestamp": "2026-10-23T21:45:15.051Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "e01d38c9-25e1-4e22-a48b-c5d4ec9116a5",
     "itemId": "mots-c--40mg",
     "label": "MOTS-C 40mg",
