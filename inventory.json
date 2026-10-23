@@ -15,7 +15,7 @@
   {
     "product": "GHK-Cu",
     "strength": "100mg",
-    "quantity": 6,
+    "quantity": 5,
     "id": "ghk-cu--100mg",
     "sku": "",
     "category": "",
@@ -23,7 +23,7 @@
     "incomingQuantity": 0,
     "expectedArrival": "",
     "internalOnly": false,
-    "updatedAt": "2026-10-23T21:39:46.457Z"
+    "updatedAt": "2026-10-23T21:39:57.742Z"
   },
   {
     "id": "glow--70mg",
