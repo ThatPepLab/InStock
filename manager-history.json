@@ -1,5 +1,42 @@
 [
   {
+    "id": "8734f423-c1a8-4da5-ba6d-cf9eb0d19408",
+    "itemId": "ghk-cu--100mg",
+    "label": "GHK-Cu 100mg",
+    "action": "adjust",
+    "actionLabel": "Sold",
+    "delta": -1,
+    "note": "Sold",
+    "before": {
+      "product": "GHK-Cu",
+      "strength": "100mg",
+      "quantity": 8,
+      "id": "ghk-cu--100mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "internalOnly": false
+    },
+    "after": {
+      "product": "GHK-Cu",
+      "strength": "100mg",
+      "quantity": 7,
+      "id": "ghk-cu--100mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "internalOnly": false,
+      "updatedAt": "2026-10-23T21:39:42.046Z"
+    },
+    "timestamp": "2026-10-23T21:39:42.046Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "d4b3c54c-bbed-4b49-ae94-9ab20f52bf2b",
     "itemId": "glow--70mg",
     "label": "GLOW 70mg",
