@@ -1,5 +1,43 @@
 [
   {
+    "id": "e8ffc40a-4bc1-44ef-9f03-7317e65b56cb",
+    "itemId": "hgh-191aa--15iu",
+    "label": "HGH 191AA 15iu",
+    "action": "adjust",
+    "actionLabel": "Sold",
+    "delta": -1,
+    "note": "Sold",
+    "before": {
+      "product": "HGH 191AA",
+      "strength": "15iu",
+      "sku": "",
+      "category": "Growth & Performance",
+      "quantity": 5,
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "id": "hgh-191aa--15iu",
+      "updatedAt": "2026-10-06T17:58:01.269Z",
+      "internalOnly": false
+    },
+    "after": {
+      "product": "HGH 191AA",
+      "strength": "15iu",
+      "sku": "",
+      "category": "Growth & Performance",
+      "quantity": 4,
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "id": "hgh-191aa--15iu",
+      "updatedAt": "2026-10-23T21:44:51.011Z",
+      "internalOnly": false
+    },
+    "timestamp": "2026-10-23T21:44:51.011Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "348ef0a2-b695-4a2b-ba78-b4528da277f0",
     "itemId": "ghk-cu--50mg",
     "label": "GHK-Cu 50mg",
