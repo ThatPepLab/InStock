@@ -125,9 +125,9 @@
     "quantity": 0,
     "moreOnWay": true,
     "incomingQuantity": 10,
-    "expectedArrival": "2026-11-01",
+    "expectedArrival": "2026-11-06",
     "internalOnly": false,
-    "updatedAt": "2026-10-06T19:12:07.660Z"
+    "updatedAt": "2026-10-23T21:45:02.871Z"
   },
   {
     "product": "MOTS-C",
