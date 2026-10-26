@@ -130,6 +130,19 @@
     "internalOnly": false
   },
   {
+    "product": "PT-141",
+    "strength": "10mg",
+    "sku": "",
+    "category": "Sexual & Hormone",
+    "quantity": 0,
+    "moreOnWay": true,
+    "incomingQuantity": 10,
+    "expectedArrival": "2026-11-06",
+    "internalOnly": false,
+    "id": "pt-141--10mg",
+    "updatedAt": "2026-10-26T18:35:01.549Z"
+  },
+  {
     "product": "SELANK",
     "strength": "10mg",
     "quantity": 8,
