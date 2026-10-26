@@ -155,19 +155,6 @@
     "internalOnly": false
   },
   {
-    "product": "SS-31",
-    "strength": "10mg",
-    "quantity": 0,
-    "id": "ss-31--10mg",
-    "sku": "",
-    "category": "",
-    "moreOnWay": false,
-    "incomingQuantity": 0,
-    "expectedArrival": "",
-    "updatedAt": "2026-10-23T21:45:17.077Z",
-    "internalOnly": false
-  },
-  {
     "product": "TESAMORELIN",
     "strength": "10mg",
     "quantity": 20,
