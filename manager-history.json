@@ -1,5 +1,31 @@
 [
   {
+    "id": "2b196aee-5d17-4a94-883b-0f88073bbd40",
+    "itemId": "pt-141--10mg",
+    "label": "PT-141 10mg",
+    "action": "save",
+    "actionLabel": "Product added",
+    "delta": 0,
+    "note": "",
+    "before": null,
+    "after": {
+      "product": "PT-141",
+      "strength": "10mg",
+      "sku": "",
+      "category": "Sexual & Hormone",
+      "quantity": 0,
+      "moreOnWay": true,
+      "incomingQuantity": 10,
+      "expectedArrival": "2026-11-06",
+      "internalOnly": false,
+      "id": "pt-141--10mg",
+      "updatedAt": "2026-10-26T18:35:01.549Z"
+    },
+    "timestamp": "2026-10-26T18:35:01.549Z",
+    "undoable": false,
+    "undone": false
+  },
+  {
     "id": "4a83d25e-16a4-4609-8761-4cfeb7e5c64e",
     "itemId": "wolverine--10mg",
     "label": "Wolverine 10mg",
