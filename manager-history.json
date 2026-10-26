@@ -1,5 +1,31 @@
 [
   {
+    "id": "04ea8572-c662-421f-889b-92ac6194ff2d",
+    "itemId": "nad--1000mg",
+    "label": "NAD+ 1000mg",
+    "action": "remove",
+    "actionLabel": "Product removed",
+    "delta": 0,
+    "note": "Removed from active inventory and Retail",
+    "before": {
+      "product": "NAD+",
+      "strength": "1000mg",
+      "quantity": 0,
+      "id": "nad--1000mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-10-06T17:58:08.392Z",
+      "internalOnly": false
+    },
+    "after": null,
+    "timestamp": "2026-10-26T17:29:54.547Z",
+    "undoable": false,
+    "undone": false
+  },
+  {
     "id": "fda33810-cc81-4416-a1cf-783500be7e1b",
     "itemId": "bpc-157-tb500--20mg",
     "label": "BPC-157 + TB500 20mg",
@@ -994,7 +1020,7 @@
       "updatedAt": "2026-10-06T17:58:08.392Z"
     },
     "timestamp": "2026-10-06T17:58:08.392Z",
-    "undoable": true,
+    "undoable": false,
     "undone": false
   },
   {
@@ -1318,7 +1344,7 @@
       "updatedAt": "2026-09-15T22:47:36.783Z"
     },
     "timestamp": "2026-09-15T22:47:36.783Z",
-    "undoable": true,
+    "undoable": false,
     "undone": false
   },
   {
@@ -1825,7 +1851,7 @@
       "updatedAt": "2026-09-14T20:19:20.543Z"
     },
     "timestamp": "2026-09-14T20:19:20.543Z",
-    "undoable": true,
+    "undoable": false,
     "undone": false
   },
   {
@@ -1861,7 +1887,7 @@
       "updatedAt": "2026-09-14T20:19:15.466Z"
     },
     "timestamp": "2026-09-14T20:19:15.466Z",
-    "undoable": true,
+    "undoable": false,
     "undone": false
   },
   {
@@ -1897,7 +1923,7 @@
       "updatedAt": "2026-09-14T20:19:08.682Z"
     },
     "timestamp": "2026-09-14T20:19:08.682Z",
-    "undoable": true,
+    "undoable": false,
     "undone": false
   },
   {
@@ -2689,7 +2715,7 @@
       "updatedAt": "2026-09-04T17:25:59.618Z"
     },
     "timestamp": "2026-09-04T17:25:59.618Z",
-    "undoable": true,
+    "undoable": false,
     "undone": false
   },
   {
@@ -2725,7 +2751,7 @@
       "updatedAt": "2026-09-04T17:25:56.884Z"
     },
     "timestamp": "2026-09-04T17:25:56.884Z",
-    "undoable": true,
+    "undoable": false,
     "undone": false
   },
   {
@@ -2760,7 +2786,7 @@
       "updatedAt": "2026-09-04T17:25:47.842Z"
     },
     "timestamp": "2026-09-04T17:25:47.842Z",
-    "undoable": true,
+    "undoable": false,
     "undone": false
   },
   {
