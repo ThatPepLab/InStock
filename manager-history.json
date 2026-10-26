@@ -1,5 +1,31 @@
 [
   {
+    "id": "e70c997e-807f-4b13-aba2-764ef37f9a29",
+    "itemId": "ss-31--10mg",
+    "label": "SS-31 10mg",
+    "action": "remove",
+    "actionLabel": "Product removed",
+    "delta": 0,
+    "note": "Removed from active inventory and Retail",
+    "before": {
+      "product": "SS-31",
+      "strength": "10mg",
+      "quantity": 0,
+      "id": "ss-31--10mg",
+      "sku": "",
+      "category": "",
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-10-23T21:45:17.077Z",
+      "internalOnly": false
+    },
+    "after": null,
+    "timestamp": "2026-10-26T17:30:00.938Z",
+    "undoable": false,
+    "undone": false
+  },
+  {
     "id": "04ea8572-c662-421f-889b-92ac6194ff2d",
     "itemId": "nad--1000mg",
     "label": "NAD+ 1000mg",
@@ -913,7 +939,7 @@
       "updatedAt": "2026-10-06T17:58:19.769Z"
     },
     "timestamp": "2026-10-06T17:58:19.769Z",
-    "undoable": true,
+    "undoable": false,
     "undone": false
   },
   {
@@ -3338,7 +3364,7 @@
       "updatedAt": "2026-08-19T15:54:22.967Z"
     },
     "timestamp": "2026-08-19T15:54:22.967Z",
-    "undoable": true,
+    "undoable": false,
     "undone": false
   },
   {
