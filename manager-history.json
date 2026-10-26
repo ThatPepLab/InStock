@@ -1,5 +1,31 @@
 [
   {
+    "id": "fda33810-cc81-4416-a1cf-783500be7e1b",
+    "itemId": "bpc-157-tb500--20mg",
+    "label": "BPC-157 + TB500 20mg",
+    "action": "remove",
+    "actionLabel": "Product removed",
+    "delta": 0,
+    "note": "Removed from active inventory and Retail",
+    "before": {
+      "id": "bpc-157-tb500--20mg",
+      "product": "BPC-157 + TB500",
+      "strength": "20mg",
+      "sku": "",
+      "category": "Recovery & Repair",
+      "quantity": 0,
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "updatedAt": "2026-10-06T17:54:04.175Z",
+      "internalOnly": false
+    },
+    "after": null,
+    "timestamp": "2026-10-26T17:29:37.251Z",
+    "undoable": false,
+    "undone": false
+  },
+  {
     "id": "309189a4-76ca-417c-9da0-175a6b4e81e2",
     "itemId": "tesamorelin--10mg",
     "label": "TESAMORELIN 10mg",
@@ -1184,7 +1210,7 @@
       "updatedAt": "2026-10-06T17:54:04.175Z"
     },
     "timestamp": "2026-10-06T17:54:04.175Z",
-    "undoable": true,
+    "undoable": false,
     "undone": false
   },
   {
@@ -1220,7 +1246,7 @@
       "updatedAt": "2026-10-06T17:54:01.636Z"
     },
     "timestamp": "2026-10-06T17:54:01.636Z",
-    "undoable": true,
+    "undoable": false,
     "undone": false
   },
   {
@@ -1256,7 +1282,7 @@
       "updatedAt": "2026-10-06T17:53:43.328Z"
     },
     "timestamp": "2026-10-06T17:53:43.328Z",
-    "undoable": true,
+    "undoable": false,
     "undone": false
   },
   {
@@ -1907,7 +1933,7 @@
       "updatedAt": "2026-09-14T20:18:46.144Z"
     },
     "timestamp": "2026-09-14T20:18:46.144Z",
-    "undoable": true,
+    "undoable": false,
     "undone": false
   },
   {
@@ -1943,7 +1969,7 @@
       "updatedAt": "2026-09-14T20:18:35.982Z"
     },
     "timestamp": "2026-09-14T20:18:35.982Z",
-    "undoable": true,
+    "undoable": false,
     "undone": false
   },
   {
@@ -1979,7 +2005,7 @@
       "updatedAt": "2026-09-14T20:18:16.935Z"
     },
     "timestamp": "2026-09-14T20:18:16.935Z",
-    "undoable": true,
+    "undoable": false,
     "undone": false
   },
   {
@@ -2447,7 +2473,7 @@
       "updatedAt": "2026-09-04T17:27:59.303Z"
     },
     "timestamp": "2026-09-04T17:27:59.303Z",
-    "undoable": true,
+    "undoable": false,
     "undone": false
   },
   {
@@ -2806,7 +2832,7 @@
       "updatedAt": "2026-09-04T17:25:31.859Z"
     },
     "timestamp": "2026-09-04T17:25:31.859Z",
-    "undoable": true,
+    "undoable": false,
     "undone": false
   },
   {
@@ -3392,7 +3418,7 @@
       "updatedAt": "2026-08-19T15:53:18.186Z"
     },
     "timestamp": "2026-08-19T15:53:18.186Z",
-    "undoable": true,
+    "undoable": false,
     "undone": false
   },
   {
@@ -3801,7 +3827,7 @@
       "updatedAt": "2026-08-14T21:13:48.444Z"
     },
     "timestamp": "2026-08-14T21:13:48.444Z",
-    "undoable": true,
+    "undoable": false,
     "undone": true,
     "undoneAt": "2026-08-14T21:17:52.245Z"
   }
