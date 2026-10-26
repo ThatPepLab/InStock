@@ -1,5 +1,43 @@
 [
   {
+    "id": "4a83d25e-16a4-4609-8761-4cfeb7e5c64e",
+    "itemId": "wolverine--10mg",
+    "label": "Wolverine 10mg",
+    "action": "adjust",
+    "actionLabel": "Sold",
+    "delta": -1,
+    "note": "Sold",
+    "before": {
+      "product": "Wolverine",
+      "strength": "10mg",
+      "sku": "",
+      "category": "Recovery & Repair",
+      "quantity": 9,
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "internalOnly": false,
+      "id": "wolverine--10mg",
+      "updatedAt": "2026-10-26T17:30:10.514Z"
+    },
+    "after": {
+      "product": "Wolverine",
+      "strength": "10mg",
+      "sku": "",
+      "category": "Recovery & Repair",
+      "quantity": 8,
+      "moreOnWay": false,
+      "incomingQuantity": 0,
+      "expectedArrival": "",
+      "internalOnly": false,
+      "id": "wolverine--10mg",
+      "updatedAt": "2026-10-26T17:30:15.854Z"
+    },
+    "timestamp": "2026-10-26T17:30:15.854Z",
+    "undoable": true,
+    "undone": false
+  },
+  {
     "id": "523f14f0-80da-4ef2-a078-d0cbc487874b",
     "itemId": "wolverine--10mg",
     "label": "Wolverine 10mg",
